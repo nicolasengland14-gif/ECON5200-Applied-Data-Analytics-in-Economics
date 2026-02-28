@@ -1,0 +1,3 @@
+For my midterm project, I have chosen to study, Card, D., & Krueger, A. B. (1994). Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania.
+Linked here: https://davidcard.berkeley.edu/papers/njmin-aer.pdf
+This paper aims to answer questions surrounding the effect of raising the minimum wage, specifically, how this impacts the rate of employment at fast-food restaraunts in New Jersey and Pennsylvania. The authors, David Card and Alan B Krueger, monitored 410 fast-food locations before and after the increawse of the minimum wage in New Jersey from $4.25 to $5.05, to figure out if low-wage labor markets are effected like those before them had hypothesized. 
