@@ -1,3 +1,42 @@
+# 📊 Executive Memo: Minimum Wage & Employment
+
+## Bottom Line (BLUF)
+
+Raising the minimum wage in New Jersey in 1992 did **not reduce employment** in fast-food restaurants relative to Pennsylvania. In fact, employment slightly increased, and this result remains credible after testing whether both states were following similar trends before the policy change.
+
+---
+
+## The Mechanism (How we identified the effect)
+
+To isolate the impact of the policy, we compared two nearly identical groups:
+
+- New Jersey (where the minimum wage increased)
+- Pennsylvania (where it did not)
+
+Think of this like a natural experiment. If two similar groups are moving together over time, and one group experiences a policy change while the other does not, any difference that emerges afterward can be attributed to that policy.
+
+This approach allows us to mimic a randomized experiment using real-world data.
+
+---
+
+## Visual Evidence
+
+The chart below shows unemployment trends in New Jersey and Pennsylvania before the policy change in April 1992.
+
+<img width="987" height="590" alt="image" src="https://github.com/user-attachments/assets/a6847c74-d156-43eb-b67f-fd51c2d56fab" />
+
+
+**Caption:**  
+Before the policy change, both states show similar movements in unemployment, suggesting they were on comparable economic paths. This supports the idea that the comparison between the two states is valid.
+
+---
+
+## Business / Policy Implications
+
+These findings suggest that moderate increases in the minimum wage may not necessarily lead to job losses in low-wage industries like fast food.
+
+For policymakers, this indicates that minimum wage policy can potentially improve worker income without harming employment. For business leaders, it suggests that labor market adjustments may occur through channels other than layoffs, such as pricing or productivity changes.
+
 For my midterm project, I have chosen to study, Card, D., & Krueger, A. B. (1994). Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania.
 Linked here: https://davidcard.berkeley.edu/papers/njmin-aer.pdf
 This paper aims to answer questions surrounding the effect of raising the minimum wage, specifically, how this impacts the rate of employment at fast-food restaraunts in New Jersey and Pennsylvania. The authors, David Card and Alan B Krueger, monitored 410 fast-food locations before and after the increawse of the minimum wage in New Jersey from $4.25 to $5.05, to figure out if low-wage labor markets are effected like those before them had hypothesized. 
