@@ -1,0 +1,9 @@
+## Executive Summary
+
+We estimate the effect of police presence on crime rates using county-level panel data. Our results suggest that changes in police per capita are associated with changes in crime rates, although the direction and magnitude depend on the specification. 
+
+Using a first-difference model, we attempt to isolate the causal effect by focusing on within-county variation over time. The naive OLS estimate is likely biased due to reverse causality, as higher crime may lead to increased police presence. The first-difference approach mitigates this issue by removing time-invariant confounders.
+
+We recommend caution in interpreting the results as strictly causal, as remaining time-varying confounders may still bias the estimates. However, the analysis provides evidence that policy decisions regarding police allocation should consider both the potential deterrence effects and the possibility that policing responds to crime rather than causes it.
+
+Key assumption: Changes in police presence are not driven by omitted variables that also directly affect crime rates. Violations of this assumption would bias the estimated effect.
